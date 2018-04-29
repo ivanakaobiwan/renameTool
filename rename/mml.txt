@@ -1,0 +1,19 @@
+﻿asdfas
+afsd
+fasd
+f
+af
+fa
+a=123
+zvf
+
+LAC=33333
+ASCELLID=1234
+CELLID=1234
+ADD UCELL:CELLNAME='asdf',CELLID=1234, LOCELLID=1234;
+ADD UCELL:CELLNAME='asdf', CELLID=1234, SWITCH=YES ;
+CELLID=1234;
+hyin9
+херь
+ыыы
+азаза
